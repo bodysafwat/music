@@ -1,0 +1,6 @@
+owner=547662685257596930
+prefix=1
+game=BoOo
+stayinchannel=true
+songinstatus=false
+token=NjA4NjQ3Njc2MDk5MDM1MTYy.XUrNcg.y39k2yHDnxbsu2qrcpSVqGTU8pE

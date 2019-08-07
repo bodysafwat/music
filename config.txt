@@ -3,4 +3,4 @@ prefix=1
 game=BoOo
 stayinchannel=true
 songinstatus=false
-token=NjA4NjQ3Njc2MDk5MDM1MTYy.XUrjmg.Pe5aDlvQYv8rFDbVNDkJ5amcjKc
+token=NjA4NjQ3Njc2MDk5MDM1MTYy.XUrlKA.qru-CvC12FHAvFGWmBDVrpjY5Fo
